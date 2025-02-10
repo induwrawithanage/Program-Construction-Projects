@@ -1,0 +1,531 @@
+---------------------------------------
+>>>>>>> WELCOME TO MYSTIC MAYHEM <<<<<<
+---------------------------------------
+
+-> To log your profile press number : 1
+-> To create a profile press number : 2
+-> To delete a profile press number : 3
+-> To exit the profile press number : 4
+2
+>>> Enter Your Name :
+Induwara
+>>> Enter The Username :
+Induwara
+>>> Please select the land and press number:
+
+-> Hillcrest:        1
+-> Marshland:        2
+-> Desert:           3
+-> Arcane:           4
+2
+--------------------------------------
+>>>>>>>>>>>>> MAIN MENU <<<<<<<<<<<<<<
+--------------------------------------
+
+-> To battle press number          : 1
+-> To add the army press number    : 2
+-> To sell the army press number   : 3
+-> To upgrade the army press number: 4
+_> To change name press number     : 5
+-> Back and logout press number    : 6
+2
+Your gold is: 500
+-------------------
+>>>> YOUR ARMY <<<<
+-------------------
+
+!!! There hasn't any character !!!
+
+--- You can buy only below character category ---
+-> Archers:                0
+-> Knights:                1
+-> Mages:                  2
+-> Healers:                3
+-> Mythical Creatures:     4
+To add the troop press relevant number which is in-front of the name!!!
+To exit press number  : 5
+0
+<<< Details Of Archers >>>
+Name is :Shooter
+Price : 80
+Attack :11.0
+Defence :4.0
+Health :6.0
+Speed :9.0
+Land :Highlanders
+
+Name is :Ranger
+Price : 115
+Attack :14.0
+Defence :5.0
+Health :8.0
+Speed :10.0
+Land :Highlanders
+
+Name is :Sunfire
+Price : 160
+Attack :15.0
+Defence :5.0
+Health :7.0
+Speed :14.0
+Land :Sunchildren
+
+Name is :Zing
+Price : 200
+Attack :16.0
+Defence :9.0
+Health :11.0
+Speed :14.0
+Land :Sunchildren
+
+Name is :Saggitarius
+Price : 230
+Attack :18.0
+Defence :7.0
+Health :12.0
+Speed :17.0
+Land :Mystics
+
+
+---Please Enter The Character Number---
+
+-> Shooter:         0
+-> Ranger:          1
+-> SunFire:         2
+-> Zing:            3
+-> Saggitarius:     4
+0
+Your gold is: 420
+-------------------
+>>>> YOUR ARMY <<<<
+-------------------
+
+Shooter
+
+--- You can buy only below character category ---
+-> Knights:                1
+-> Mages:                  2
+-> Healers:                3
+-> Mythical Creatures:     4
+To add the troop press relevant number which is in-front of the name!!!
+To exit press number  : 5
+1
+<<< Details Of Knights >>>
+Name is :Squire
+Price : 85
+Attack :8.0
+Defence :9.0
+Health :7.0
+Speed :8.0
+Land :Marshlanders
+
+Name is :Cavalier
+Price : 110
+Attack :10.0
+Defence :12.0
+Health :7.0
+Speed :10.0
+Land :Highlanders
+
+Name is :Templar
+Price : 155
+Attack :14.0
+Defence :16.0
+Health :12.0
+Speed :12.0
+Land :Sunchildren
+
+Name is :Zoro
+Price : 180
+Attack :17.0
+Defence :16.0
+Health :13.0
+Speed :14.0
+Land :Highlanders
+
+Name is :Swiftblade
+Price : 250
+Attack :18.0
+Defence :20.0
+Health :17.0
+Speed :13.0
+Land :Marshlanders
+
+
+---Please Enter The Character Number---
+
+-> Squire:            0
+-> Cavalier:          1
+-> Templar:           2
+-> Zoro:              3
+-> Swiftblade:        4
+0
+Your gold is: 335
+-------------------
+>>>> YOUR ARMY <<<<
+-------------------
+
+Shooter
+Squire
+
+--- You can buy only below character category ---
+-> Mages:                  2
+-> Healers:                3
+-> Mythical Creatures:     4
+To add the troop press relevant number which is in-front of the name!!!
+To exit press number  : 5
+2
+<<< Details Of Mages >>>
+Name is :Warlock
+Price : 100
+Attack :12.0
+Defence :7.0
+Health :10.0
+Speed :12.0
+Land :Marshlanders
+
+Name is :Illusionist
+Price : 120
+Attack :13.0
+Defence :8.0
+Health :12.0
+Speed :14.0
+Land :Mystics
+
+Name is :Enchanter
+Price : 160
+Attack :16.0
+Defence :10.0
+Health :13.0
+Speed :16.0
+Land :Highlanders
+
+Name is :Conjurer
+Price : 195
+Attack :18.0
+Defence :15.0
+Health :14.0
+Speed :12.0
+Land :Highlanders
+
+Name is :Eldritch
+Price : 270
+Attack :19.0
+Defence :17.0
+Health :18.0
+Speed :14.0
+Land :Mystics
+
+
+---Please Enter The Character Number---
+
+-> Warlock:           0
+-> Illusionist:       1
+-> Enchanter:         2
+-> Conjurer:          3
+-> Eldritch:          4
+0
+Your gold is: 235
+-------------------
+>>>> YOUR ARMY <<<<
+-------------------
+
+Shooter
+Squire
+Warlock
+
+--- You can buy only below character category ---
+-> Healers:                3
+-> Mythical Creatures:     4
+To add the troop press relevant number which is in-front of the name!!!
+To exit press number  : 5
+3
+<<< Details Of Healers >>>
+Name is :Soother
+Price : 95
+Attack :10.0
+Defence :8.0
+Health :9.0
+Speed :6.0
+Land :Sunchildren
+
+Name is :Medic
+Price : 125
+Attack :12.0
+Defence :9.0
+Health :10.0
+Speed :7.0
+Land :Highlanders
+
+Name is :Alchemist
+Price : 150
+Attack :13.0
+Defence :13.0
+Health :13.0
+Speed :13.0
+Land :Marshlanders
+
+Name is :Saint
+Price : 200
+Attack :16.0
+Defence :14.0
+Health :17.0
+Speed :9.0
+Land :Mystics
+
+Name is :Lightbringer
+Price : 260
+Attack :17.0
+Defence :15.0
+Health :19.0
+Speed :12.0
+Land :Sunchildren
+
+
+---Please Enter The Character Number---
+
+-> Soother:           0
+-> Medic:             1
+-> Alchemist:         2
+-> Saint:             3
+-> Lightbringer:      4
+0
+Your gold is: 140
+-------------------
+>>>> YOUR ARMY <<<<
+-------------------
+
+Shooter
+Squire
+Warlock
+Soother
+
+--- You can buy only below character category ---
+-> Mythical Creatures:     4
+To add the troop press relevant number which is in-front of the name!!!
+To exit press number  : 5
+4
+<<< Details Of Mythical Creature >>>
+Name is :Dragon
+Price : 120
+Attack :12.0
+Defence :14.0
+Health :15.0
+Speed :8.0
+Land :Sunchildren
+
+Name is :Basilisk
+Price : 165
+Attack :15.0
+Defence :11.0
+Health :10.0
+Speed :12.0
+Land :Marshlanders
+
+Name is :Hydra
+Price : 205
+Attack :12.0
+Defence :16.0
+Health :15.0
+Speed :11.0
+Land :Marshlanders
+
+Name is :Phoenix
+Price : 275
+Attack :17.0
+Defence :13.0
+Health :17.0
+Speed :19.0
+Land :Sunchildren
+
+Name is :Pegasus
+Price : 340
+Attack :14.0
+Defence :18.0
+Health :20.0
+Speed :20.0
+Land :Mystics
+
+
+---Please Enter The Character Number---
+
+-> Dragon:            0
+-> Basilisk:          1
+-> Hydra:             2
+-> Phoenix:           3
+-> Pegasus:           4
+0
+Your gold is: 20
+-------------------
+>>>> YOUR ARMY <<<<
+-------------------
+
+Shooter
+Squire
+Warlock
+Soother
+Dragon
+
+!!! You can't add character !!!
+>>> To continue press: c
+c
+--------------------------------------
+>>>>>>>>>>>>> MAIN MENU <<<<<<<<<<<<<<
+--------------------------------------
+
+-> To battle press number          : 1
+-> To add the army press number    : 2
+-> To sell the army press number   : 3
+-> To upgrade the army press number: 4
+_> To change name press number     : 5
+-> Back and logout press number    : 6
+1
+0:  GeraltofRivia
+XP : 32
+Ranger
+Squire
+Warlock
+Medic
+Dragon
+
+Enter the player number
+If you want to exit enter -1
+0
+<<< Induwara vs. GeraltofRivia >>>
+-> Turn: 1
+Attacker is Induwara
+Induwara's Warlock attack Ranger
+Ranger's health: 2.6
+Warlock's health: 10.0
+
+-> Turn: 2
+Attacker is GeraltofRivia
+GeraltofRivia's Warlock attack Shooter
+Shooter's health: 0.4
+Warlock's health: 10.0
+
+-> Turn: 3
+Attacker is Induwara
+Induwara's Shooter attack Ranger
+Ranger's health: 0.0
+Shooter's health: 0.4
+Ranger DIED!
+
+-> Turn: 4
+Attacker is GeraltofRivia
+GeraltofRivia's Squire attack Shooter
+Shooter's health: 0.0
+Squire's health: 7.0
+Shooter DIED!
+
+-> Turn: 5
+Attacker is Induwara
+Induwara's Squire attack Medic
+Medic's health: 7.8
+Squire's health: 7.0
+
+-> Turn: 6
+Attacker is GeraltofRivia
+GeraltofRivia's Dragon attack Soother
+Soother's health: 4.3
+Dragon's health: 15.0
+
+-> Turn: 7
+Attacker is Induwara
+Induwara's Dragon attack Medic
+Medic's health: 3.1
+Dragon's health: 15.0
+
+-> Turn: 8
+Attacker is GeraltofRivia
+GeraltofRivia's Medic Heal Soother to 5.6
+Medic's health: 3.1
+
+-> Turn: 9
+Attacker is Induwara
+Induwara's Soother Heal Soother to 6.5
+Soother's health: 6.5
+
+-> Turn: 10
+Attacker is GeraltofRivia
+GeraltofRivia's Warlock attack Soother
+Soother's health: 1.3
+Warlock's health: 10.0
+
+-> Turn: 11
+Attacker is Induwara
+Induwara's Warlock attack Medic
+Medic's health: 0.0
+Warlock's health: 10.0
+Medic DIED!
+
+-> Turn: 12
+Attacker is GeraltofRivia
+GeraltofRivia's Squire attack Soother
+Soother's health: 0.0
+Squire's health: 7.0
+Soother DIED!
+
+-> Turn: 13
+Attacker is Induwara
+Induwara's Squire attack Warlock
+Warlock's health: 6.9
+Squire's health: 7.0
+
+-> Turn: 14
+Attacker is GeraltofRivia
+GeraltofRivia's Dragon attack Warlock
+Warlock's health: 5.4
+Dragon's health: 15.0
+
+-> Turn: 15
+Attacker is Induwara
+Induwara's Dragon attack Warlock
+Warlock's health: 2.3
+Dragon's health: 15.0
+
+-> Turn: 16
+Attacker is GeraltofRivia
+GeraltofRivia's Warlock attack Warlock
+Warlock's health: 0.3
+Warlock's health: 2.3
+
+-> Turn: 17
+Attacker is Induwara
+Induwara's Warlock attack Warlock
+Warlock's health: 0.0
+Warlock's health: 0.3
+Warlock DIED!
+
+-> Turn: 18
+Attacker is GeraltofRivia
+GeraltofRivia's Squire attack Warlock
+Warlock's health: 0.0
+Squire's health: 7.0
+Warlock DIED!
+
+-> Turn: 19
+Attacker is Induwara
+Induwara's Squire attack Squire
+Squire's health: 4.1
+Squire's health: 7.0
+
+-> Turn: 20
+Attacker is GeraltofRivia
+GeraltofRivia's Dragon attack Squire
+Squire's health: 2.6
+Dragon's health: 15.0
+
+DRAW
+Induwara XP: 0 Gold coins: 20
+GeraltofRivia XP: 32 Gold coins: 215
+--------------------------------------
+>>>>>>>>>>>>> MAIN MENU <<<<<<<<<<<<<<
+--------------------------------------
+
+-> To battle press number          : 1
+-> To add the army press number    : 2
+-> To sell the army press number   : 3
+-> To upgrade the army press number: 4
+_> To change name press number     : 5
+-> Back and logout press number    : 6
